@@ -1,0 +1,27 @@
+student_id,name,age,gender,math_grade,science_grade,history_grade,english_grade,age_missing,city,state
+1,Alice,23.0,female,90,60,71,72,False,Houston,TX
+2,Benjamin,31.0,male,85,82,74,77,False,Phoenix,AZ
+3,Charlotte,30.0,neither,69,74,98,94,False,Chicago,IL
+4,Daniel,24.0,unknown,70,80,73,64,False,Denver,CO
+5,Eleanor,25.238095238095237,male,100,97,64,100,True,Atlanta,GA
+6,Fiona,27.0,female,94,90,75,93,False,Miami,FL
+7,Grace,28.0,neither,90,90,81,92,False,Seattle,WA
+8,Henry,21.0,unknown,64,78,60,64,False,Boston,MA
+9,Isabella,28.0,male,86,86,97,83,False,Austin,TX
+10,Jack,19.0,female,81,94,98,77,False,Portland,OR
+11,Katherine,25.238095238095237,unknown,63,86,94,92,True,Detroit,MI
+12,Liam,35.0,neither,75,64,94,72,False,Las Vegas,NV
+13,Mia,27.0,unknown,61,83,96,78,False,Charlotte,NC
+14,Nathan,26.0,male,81,62,78,90,False,Dallas,TX
+15,Olivia,23.0,neither,77,100,92,81,False,San Francisco,CA
+16,Penelope,22.0,female,67,95,94,72,False,Minneapolis,MN
+17,Quincy,29.0,unknown,92,75,90,62,False,New York,NY
+18,Rachel,24.0,neither,94,100,74,81,False,Nashville,TN
+19,Samuel,18.0,male,68,70,67,64,False,Philadelphia,PA
+20,Taylor,25.238095238095237,female,95,66,90,95,True,Los Angeles,CA
+21,Uma,25.238095238095237,unknown,86,78,98,80,True,Salt Lake City,UT
+22,Victor,20.0,neither,81,77,66,90,False,New Orleans,LA
+23,William,34.0,unknown,69,98,99,91,False,Indianapolis,IN
+24,Xander,23.0,neither,85,79,77,92,False,San Diego,CA
+25,Yasmine,25.238095238095237,male,90,70,80,88,True,Kansas City,MO
+26,Zachary,18.0,female,96,95,78,69,False,Raleigh,NC
